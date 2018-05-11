@@ -10,3 +10,5 @@ Some related links to look at:
 * https://github.com/serilog/serilog-sinks-elasticsearch
 * https://github.com/serilog/serilog-sinks-seq
 * https://github.com/serilog/serilog-settings-appsettings
+
+NOTE: You'll have to set-up your own Elasticsearch cluster, and also install Seq locally, before running this code. 
